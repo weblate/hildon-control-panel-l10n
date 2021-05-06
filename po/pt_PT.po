@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: hildon-control-panel 20100215141335\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.02.15 14:13+0200\n"
+"PO-Revision-Date: 2010.02.15 14:13+0200\n"
+"Last-Translator:\n"
+"Language-Team: pt_PT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "copa_ap_cp_name"
+msgstr "Definições"
+
+msgid "copa_ap_cp_name_short"
+msgstr "Definições"
+
+msgid "copa_ia_connectivity"
+msgstr "Conectividade"
+
+msgid "copa_ia_extras"
+msgstr "Extras"
+
+msgid "copa_ia_general"
+msgstr "Geral"
+
+msgid "copa_ia_personalisation"
+msgstr "Personalização"
+
+msgid "copa_me_tools_cud"
+msgstr "Limpar dispositivo"
+
+msgid "copa_me_tools_rfs"
+msgstr ""
+"Restaurar definições\n"
+"originais"
+
+msgid "ctrp_ti_screen_calibration"
+msgstr "Calibragem do ecrã"
+
+msgid "cud_ia_text"
+msgstr ""
+"Limpar todos os dados do utilizador excepto os programas instalados?\n"
+"Todas as funções serão desactivadas temporariamente (incluindo chamadas de "
+"emergência) e o dispositivo será reiniciado."
+
+msgid "mynokia_ap_name"
+msgstr "My Nokia"
+
+msgid "mynokia_when_you"
+msgstr ""
+"Depois de se registar no My Nokia, receberá regularmente dicas gratuitas e "
+"suporte por SMS no seu Nokia."
+
+msgid "qtn_pa_confirmation_of1"
+msgstr ""
+"A tentativa de anulacao da subscrico falhou.\n"
+"Aceda a My Nokia em Definicoes para tentar novamente. Visite www.nokia.com/"
+"mynokia para obter mais informaoes."
+
+msgid "qtn_pa_confirmation_os1"
+msgstr "Anulou a sua subscricao no My Nokia."
+
+msgid "refs_ia_text"
+msgstr ""
+"Restaurar as definições originais e reiniciar?\n"
+"Todas as funções serão desactivadas temporariamente (incluindo chamadas de "
+"emergência). O conteúdo criado pelo utilizador não será afectado."

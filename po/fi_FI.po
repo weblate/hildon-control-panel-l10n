@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: hildon-control-panel 20100215141335\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.02.15 14:13+0200\n"
+"PO-Revision-Date: 2010.02.15 14:13+0200\n"
+"Last-Translator:\n"
+"Language-Team: fi_FI\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "copa_ap_cp_name"
+msgstr "Asetukset"
+
+msgid "copa_ap_cp_name_short"
+msgstr "Asetukset"
+
+msgid "copa_ia_connectivity"
+msgstr "Yhteydet"
+
+msgid "copa_ia_extras"
+msgstr "Muut"
+
+msgid "copa_ia_general"
+msgstr "Yleinen"
+
+msgid "copa_ia_personalisation"
+msgstr "Mukauttaminen"
+
+msgid "copa_me_tools_cud"
+msgstr "Tyhjennä laite"
+
+msgid "copa_me_tools_rfs"
+msgstr ""
+"Palauta alkuperäiset\n"
+"asetukset"
+
+msgid "ctrp_ti_screen_calibration"
+msgstr "Näytön kalibrointi"
+
+msgid "cud_ia_text"
+msgstr ""
+"Tyhjennetäänkö kaikki käyttäjätiedot paitsi asennetut ohjelmat?\n"
+"Kaikki toiminnot poistetaan väliaikaisesti käytöstä (myöskään hätäpuheluja "
+"ei voi soittaa) ja laite käynnistetään uudelleen."
+
+msgid "mynokia_ap_name"
+msgstr "My Nokia"
+
+msgid "mynokia_when_you"
+msgstr ""
+"Kun olet rekisteröitynyt My Nokia -palveluun, saat Nokia-laitteeseesi "
+"säännöllisesti maksuttomia vinkkejä ja ohjeita tekstiviestillä."
+
+msgid "qtn_pa_confirmation_of1"
+msgstr ""
+"Tilauksen peruuttaminen ei onnistunut.\n"
+" Voit yrittää uudelleen Asetukset-valikon My Nokia -kohdassa. Lisätietoja "
+"löydät osoitteesta www.nokia.fi/mynokia"
+
+msgid "qtn_pa_confirmation_os1"
+msgstr "Olet peruuttanut My Nokia -palvelun tilauksen."
+
+msgid "refs_ia_text"
+msgstr ""
+"Palautetaanko alkuperäiset asetukset ja käynnistetään uudelleen?\n"
+"Kaikki toiminnot poistetaan väliaikaisesti käytöstä (myöskään hätäpuheluja "
+"ei voi soittaa). Ei vaikuta käyttäjän luomaan sisältöön."

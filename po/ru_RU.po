@@ -1,0 +1,71 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: hildon-control-panel 20100215141335\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.02.15 14:13+0200\n"
+"PO-Revision-Date: 2010.02.15 14:13+0200\n"
+"Last-Translator:\n"
+"Language-Team: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2\n"
+
+msgid "copa_ap_cp_name"
+msgstr "Параметры"
+
+msgid "copa_ap_cp_name_short"
+msgstr "Параметры"
+
+msgid "copa_ia_connectivity"
+msgstr "Соединения"
+
+msgid "copa_ia_extras"
+msgstr "Дополнительно"
+
+msgid "copa_ia_general"
+msgstr "Общие"
+
+msgid "copa_ia_personalisation"
+msgstr "Персонализация"
+
+msgid "copa_me_tools_cud"
+msgstr "Очистить устройство"
+
+msgid "copa_me_tools_rfs"
+msgstr ""
+"Восстановить исходные\n"
+"параметры"
+
+msgid "ctrp_ti_screen_calibration"
+msgstr "Калибровка экрана"
+
+msgid "cud_ia_text"
+msgstr ""
+"Очистить все данные о пользователе, кроме установленных программ?\n"
+"Все функции будут временно отключены (включая экстренные вызовы) и "
+"устройство перезагрузится."
+
+msgid "mynokia_ap_name"
+msgstr "My Nokia"
+
+msgid "mynokia_when_you"
+msgstr ""
+"После регистрации в My Nokia бесплатные SMS с советами и сообщениями службы "
+"поддержки будут регулярно поступать на ваш телефон Nokia."
+
+msgid "qtn_pa_confirmation_of1"
+msgstr ""
+"Не удалось отказаться от подписки.\n"
+"Попробуйте еще раз из пункта \"My Nokia\" в разделе \"Параметры\". Подробнее "
+"см. на www.nokia.ru/mynokia"
+
+msgid "qtn_pa_confirmation_os1"
+msgstr "Вы отменили подписку на My Nokia."
+
+msgid "refs_ia_text"
+msgstr ""
+"Восстановить исходные параметры и перезагрузить устройство?\n"
+"Все функции будут временно отключены (включая экстренные вызовы). "
+"Содержимое, созданное пользователем, не будет изменено."

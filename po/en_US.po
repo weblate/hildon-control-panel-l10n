@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: hildon-control-panel 20100215141335\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.02.15 14:13+0200\n"
+"PO-Revision-Date: 2010.02.15 14:13+0200\n"
+"Last-Translator:\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "copa_ap_cp_name"
+msgstr "Settings"
+
+msgid "copa_ap_cp_name_short"
+msgstr "Settings"
+
+msgid "copa_ia_connectivity"
+msgstr "Connectivity"
+
+msgid "copa_ia_extras"
+msgstr "Extras"
+
+msgid "copa_ia_general"
+msgstr "General"
+
+msgid "copa_ia_personalisation"
+msgstr "Personalization"
+
+msgid "copa_me_tools_cud"
+msgstr "Clear device"
+
+msgid "copa_me_tools_rfs"
+msgstr ""
+"Restore original\n"
+"settings"
+
+msgid "ctrp_ti_screen_calibration"
+msgstr "Screen calibration"
+
+msgid "cud_ia_text"
+msgstr ""
+"Clear all user data except installed programs?\n"
+"All functions will be temporarily disabled (including emergency calls) and "
+"the device will reboot."
+
+msgid "mynokia_ap_name"
+msgstr "My Nokia"
+
+msgid "mynokia_when_you"
+msgstr ""
+"When you have registered to My Nokia, tips and support will be sent "
+"regularly via SMS to your Nokia."
+
+msgid "qtn_pa_confirmation_of1"
+msgstr ""
+"Attempt to unsubscribe has failed.\n"
+"Go to 'My Nokia' in Settings to try again. Visit www.nokia.com/mynokia for "
+"more information."
+
+msgid "qtn_pa_confirmation_os1"
+msgstr "You have unsubscribed from My Nokia."
+
+msgid "refs_ia_text"
+msgstr ""
+"Restore original settings and reboot?\n"
+"All functions will be temporarily disabled (including emergency calls). User-"
+"created content will be unaffected."

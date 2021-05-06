@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: hildon-control-panel 20100215141335\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.02.15 14:13+0200\n"
+"PO-Revision-Date: 2010.02.15 14:13+0200\n"
+"Last-Translator:\n"
+"Language-Team: cs_CZ\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2\n"
+
+msgid "copa_ap_cp_name"
+msgstr "Nastavení"
+
+msgid "copa_ap_cp_name_short"
+msgstr "Nastavení"
+
+msgid "copa_ia_connectivity"
+msgstr "Připojení"
+
+msgid "copa_ia_extras"
+msgstr "Doplňky"
+
+msgid "copa_ia_general"
+msgstr "Obecné"
+
+msgid "copa_ia_personalisation"
+msgstr "Personalizace"
+
+msgid "copa_me_tools_cud"
+msgstr "Vymazat paměť přístroje"
+
+msgid "copa_me_tools_rfs"
+msgstr ""
+"Obnovit původní\n"
+"nastavení"
+
+msgid "ctrp_ti_screen_calibration"
+msgstr "Kalibrace displeje"
+
+msgid "cud_ia_text"
+msgstr ""
+"Odstranit všechna uživatelská data kromě nainstalovaných programů?\n"
+"Všechny funkce budou dočasně vypnuté (včetně tísňových volání) a proběhne "
+"restart přístroje."
+
+msgid "mynokia_ap_name"
+msgstr "My Nokia"
+
+msgid "mynokia_when_you"
+msgstr ""
+"Po registraci ve službě My Nokia budou do vašeho telefonu Nokia pravidelně "
+"zasílány zprávy SMS s bezplatnými tipy a podporou."
+
+msgid "qtn_pa_confirmation_of1"
+msgstr ""
+"Pokus o odhlášení se nezdařil.\n"
+"V nabídce Nastavení přejděte do nabídky ‚My Nokia‘ a zkuste to znovu. Další "
+"informace naleznete na stránkách www.nokia.com/mynokia"
+
+msgid "qtn_pa_confirmation_os1"
+msgstr "Odhlásili jste se od služby My Nokia."
+
+msgid "refs_ia_text"
+msgstr ""
+"Obnovit původní nastavení a restartovat?\n"
+"Všechny funkce budou dočasně vypnuté (včetně tísňových volání). Uživatelem "
+"vytvořený obsah nebude ovlivněn."

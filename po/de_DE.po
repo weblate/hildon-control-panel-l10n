@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: hildon-control-panel 20100215141335\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.02.15 14:13+0200\n"
+"PO-Revision-Date: 2010.02.15 14:13+0200\n"
+"Last-Translator:\n"
+"Language-Team: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "copa_ap_cp_name"
+msgstr "Einstellungen"
+
+msgid "copa_ap_cp_name_short"
+msgstr "Einstellungen"
+
+msgid "copa_ia_connectivity"
+msgstr "Verbindungseinstellungen"
+
+msgid "copa_ia_extras"
+msgstr "Extras"
+
+msgid "copa_ia_general"
+msgstr "Allgemein"
+
+msgid "copa_ia_personalisation"
+msgstr "Personalisierung"
+
+msgid "copa_me_tools_cud"
+msgstr "Gerät bereinigen"
+
+msgid "copa_me_tools_rfs"
+msgstr ""
+"Standardeinstellungen\n"
+"wiederherstellen"
+
+msgid "ctrp_ti_screen_calibration"
+msgstr "Bildschirmkalibrierung"
+
+msgid "cud_ia_text"
+msgstr ""
+"Alle Benutzerdaten mit Ausnahme installierter Programme löschen?\n"
+"Alle Funktionen (einschl. Notrufe) werden vorübergehend deaktiviert, Gerät "
+"wird neu gestartet."
+
+msgid "mynokia_ap_name"
+msgstr "My Nokia"
+
+msgid "mynokia_when_you"
+msgstr ""
+"Wenn Sie bei My Nokia registriert sind, erhalten Sie regelmäßig per SMS "
+"kostenlose Tipps und Unterstützung auf Ihr Mobiltelefon"
+
+msgid "qtn_pa_confirmation_of1"
+msgstr ""
+"Abmeldung fehlgeschlagen.\n"
+"Wählen Sie bitte in den Einstellungen 'My Nokia', um es erneut zu versuchen. "
+"Weitere Informationen erhalten Sie unter www.nokia.de/mynokia"
+
+msgid "qtn_pa_confirmation_os1"
+msgstr "Sie haben sich von My Nokia abgemeldet."
+
+msgid "refs_ia_text"
+msgstr ""
+"Standardeinstellungen wiederherstellen und neu starten?\n"
+"Alle Funktionen (einschl. Notrufe) werden vorübergehend deaktiviert. Vom "
+"Benutzer erstellte Inhalte werden beibehalten."

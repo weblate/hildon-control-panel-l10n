@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: hildon-control-panel 20100215141335\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.02.15 14:13+0200\n"
+"PO-Revision-Date: 2010.02.15 14:13+0200\n"
+"Last-Translator:\n"
+"Language-Team: no_NO\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "copa_ap_cp_name"
+msgstr "Innstillinger"
+
+msgid "copa_ap_cp_name_short"
+msgstr "Innstillinger"
+
+msgid "copa_ia_connectivity"
+msgstr "Tilkobling"
+
+msgid "copa_ia_extras"
+msgstr "Tillegg"
+
+msgid "copa_ia_general"
+msgstr "Generell"
+
+msgid "copa_ia_personalisation"
+msgstr "Tilpasning"
+
+msgid "copa_me_tools_cud"
+msgstr "Tøm enhet"
+
+msgid "copa_me_tools_rfs"
+msgstr ""
+"Gjenopprett fabrikk-\n"
+"innstillinger"
+
+msgid "ctrp_ti_screen_calibration"
+msgstr "Skjermkalibrering"
+
+msgid "cud_ia_text"
+msgstr ""
+"Slette alle brukerdata med unntak av installerte programmer?\n"
+"Alle funksjoner vil bli midlertidig deaktivert (også nødsamtaler), og "
+"enheten startes på nytt."
+
+msgid "mynokia_ap_name"
+msgstr "My Nokia"
+
+msgid "mynokia_when_you"
+msgstr ""
+"Når du har registrert deg på My Nokia, får du jevnlig SMS-meldinger med "
+"gratis tips og brukerstøtte til din Nokia."
+
+msgid "qtn_pa_confirmation_of1"
+msgstr ""
+"Utmeldingen mislyktes.\n"
+"Gå til My Nokia under Innstillinger, og prøv på nytt. Gå til www.nokia.com/"
+"mynokia hvis du vil ha mer informasjon."
+
+msgid "qtn_pa_confirmation_os1"
+msgstr "Du har meldt deg ut av My Nokia."
+
+msgid "refs_ia_text"
+msgstr ""
+"Gjenopprette opprinnelige innstillinger og starte på nytt?\n"
+"Alle funksjoner vil bli midlertidig deaktivert (også nødsamtaler). "
+"Brukeropprettet innhold blir ikke berørt."

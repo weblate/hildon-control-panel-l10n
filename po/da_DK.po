@@ -1,0 +1,68 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: hildon-control-panel 20100215141335\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.02.15 14:13+0200\n"
+"PO-Revision-Date: 2010.02.15 14:13+0200\n"
+"Last-Translator:\n"
+"Language-Team: da_DK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "copa_ap_cp_name"
+msgstr "Indstillinger"
+
+msgid "copa_ap_cp_name_short"
+msgstr "Indstillinger"
+
+msgid "copa_ia_connectivity"
+msgstr "Forbindelser"
+
+msgid "copa_ia_extras"
+msgstr "Tilføjelser"
+
+msgid "copa_ia_general"
+msgstr "Generelt"
+
+msgid "copa_ia_personalisation"
+msgstr "Tilpasning"
+
+msgid "copa_me_tools_cud"
+msgstr "Ryd enhed"
+
+msgid "copa_me_tools_rfs"
+msgstr "Gendan fabrik. indst."
+
+msgid "ctrp_ti_screen_calibration"
+msgstr "Kalibrering af skærm"
+
+msgid "cud_ia_text"
+msgstr ""
+"Ryd alle brugerdata undtagen installerede programmer?\n"
+"Alle funktioner bliver midlertidigt deaktiveret (herunder nødopkald), og "
+"enheden genstartes."
+
+msgid "mynokia_ap_name"
+msgstr "My Nokia"
+
+msgid "mynokia_when_you"
+msgstr ""
+"Når du har tilmeldt dig My Nokia, sender Nokia dig regelmæssigt tips og "
+"support via SMS til din Nokia."
+
+msgid "qtn_pa_confirmation_of1"
+msgstr ""
+"Forsøget på afmelding mislykkedes.\n"
+"Gå til 'My Nokia' i Indstillinger for at prøve igen. Få flere oplysninger på "
+"www.nokia.com/mynokia"
+
+msgid "qtn_pa_confirmation_os1"
+msgstr "Du har afmeldt My Nokia."
+
+msgid "refs_ia_text"
+msgstr ""
+"Gendan de oprindelige indstillinger og genstart?\n"
+"Alle funktioner bliver midlertidigt deaktiveret (herunder nødopkald). "
+"Brugeroprettet indhold berøres ikke."

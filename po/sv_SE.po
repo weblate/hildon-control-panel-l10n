@@ -1,0 +1,68 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: hildon-control-panel 20100215141335\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.02.15 14:13+0200\n"
+"PO-Revision-Date: 2010.02.15 14:13+0200\n"
+"Last-Translator:\n"
+"Language-Team: sv_SE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "copa_ap_cp_name"
+msgstr "Inställningar"
+
+msgid "copa_ap_cp_name_short"
+msgstr "Inställningar"
+
+msgid "copa_ia_connectivity"
+msgstr "Anslutbarhet"
+
+msgid "copa_ia_extras"
+msgstr "Tillbehör"
+
+msgid "copa_ia_general"
+msgstr "Allmänt"
+
+msgid "copa_ia_personalisation"
+msgstr "Specialanpassning"
+
+msgid "copa_me_tools_cud"
+msgstr "Töm enhet"
+
+msgid "copa_me_tools_rfs"
+msgstr "Återställ fabriksinst."
+
+msgid "ctrp_ti_screen_calibration"
+msgstr "Pekskärmskalibrering"
+
+msgid "cud_ia_text"
+msgstr ""
+"Ta bort alla användardata förutom installerade program?\n"
+"Alla funktioner kommer att inaktiveras temporärt (inklusive nödsamtal) och "
+"enheten startas om."
+
+msgid "mynokia_ap_name"
+msgstr "My Nokia"
+
+msgid "mynokia_when_you"
+msgstr ""
+"När du har registrerat dig för My Nokia kommer du regelbundet att få SMS med "
+"kostnadsfria tips och support för din Nokia-telefon skickade."
+
+msgid "qtn_pa_confirmation_of1"
+msgstr ""
+"Försöket att avsluta abonnemanget misslyckades.\n"
+"Gå till My Nokia i Inställningar och försök igen. Mer information finns på "
+"www.nokia.se/mynokia"
+
+msgid "qtn_pa_confirmation_os1"
+msgstr "Du har avslutat ditt My Nokia-abonnemang."
+
+msgid "refs_ia_text"
+msgstr ""
+"Återställ de ursprungliga inställningarna och starta om?\n"
+"Alla funktioner kommer att inaktiveras temporärt (inklusive nödsamtal). "
+"Användarskapat innehåll påverkas inte."

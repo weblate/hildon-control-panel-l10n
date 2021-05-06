@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: hildon-control-panel 20100215141335\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.02.15 14:13+0200\n"
+"PO-Revision-Date: 2010.02.15 14:13+0200\n"
+"Last-Translator:\n"
+"Language-Team: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "copa_ap_cp_name"
+msgstr "Impostazioni"
+
+msgid "copa_ap_cp_name_short"
+msgstr "Impostazioni"
+
+msgid "copa_ia_connectivity"
+msgstr "Connettività"
+
+msgid "copa_ia_extras"
+msgstr "Extra"
+
+msgid "copa_ia_general"
+msgstr "Generali"
+
+msgid "copa_ia_personalisation"
+msgstr "Personalizzazione"
+
+msgid "copa_me_tools_cud"
+msgstr "Cancella i dati del dispositivo"
+
+msgid "copa_me_tools_rfs"
+msgstr ""
+"Ripristina le impostazioni\n"
+"originali"
+
+msgid "ctrp_ti_screen_calibration"
+msgstr "Calibra schermo"
+
+msgid "cud_ia_text"
+msgstr ""
+"Cancellare tutti i dati personali ad eccezione dei programmi installati?\n"
+"Tutte le funzioni verranno temporaneamente disattivate (incluse le chiamate "
+"d'emergenza) e il dispositivo riavviato."
+
+msgid "mynokia_ap_name"
+msgstr "My Nokia"
+
+msgid "mynokia_when_you"
+msgstr ""
+"Una volta effettuata la registrazione a My Nokia, riceverai regolarmente SMS "
+"gratuiti con i nostri suggerimenti e supporto sul tuo telefono cellulare."
+
+msgid "qtn_pa_confirmation_of1"
+msgstr ""
+"Non è stato possibile annullare la tua iscrizione.\n"
+"Riprova selezionando Impostazioni, quindi My Nokia. Per ulteriori "
+"informazioni, vai su www.nokia.it/mynokia"
+
+msgid "qtn_pa_confirmation_os1"
+msgstr "La tua iscrizione a My Nokia è stata annullata."
+
+msgid "refs_ia_text"
+msgstr ""
+"Ripristinare le impostazioni originali e riavviare?\n"
+"Tutte le funzioni verranno temporaneamente disattivate (incluse le chiamate "
+"d'emergenza). Il contenuto creato dall'utente rimarrà inalterato."

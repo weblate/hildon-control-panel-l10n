@@ -1,0 +1,73 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: hildon-control-panel 20100215141335\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.02.15 14:13+0200\n"
+"PO-Revision-Date: 2010.02.15 14:13+0200\n"
+"Last-Translator:\n"
+"Language-Team: fr_CA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n>1\n"
+
+msgid "copa_ap_cp_name"
+msgstr "Paramètres"
+
+msgid "copa_ap_cp_name_short"
+msgstr "Paramètres"
+
+msgid "copa_ia_connectivity"
+msgstr "Connectivité"
+
+msgid "copa_ia_extras"
+msgstr "Suppléments"
+
+msgid "copa_ia_general"
+msgstr "Général"
+
+msgid "copa_ia_personalisation"
+msgstr "Personnalisation"
+
+msgid "copa_me_tools_cud"
+msgstr ""
+"Effacer les données\n"
+"du terminal"
+
+msgid "copa_me_tools_rfs"
+msgstr ""
+"Restaurer la configuration\n"
+"d'origine"
+
+msgid "ctrp_ti_screen_calibration"
+msgstr "Calibrage de l'écran"
+
+msgid "cud_ia_text"
+msgstr ""
+"Effacer toutes les données utilisateur à l'exception des programmes "
+"installés ?\n"
+"Toutes les fonctions seront désactivées temporairement (y compris les appels "
+"d'urgence) et le terminal redémarrera."
+
+msgid "mynokia_ap_name"
+msgstr "My Nokia"
+
+msgid "mynokia_when_you"
+msgstr ""
+"Une fois que vous êtes inscrit à My Nokia, vous recevez régulièrement et "
+"gratuitement des conseils et du soutien par SMS sur votre terminal Nokia."
+
+msgid "qtn_pa_confirmation_of1"
+msgstr ""
+"Échec de la tentative de désabonnement.\n"
+"Accédez à la section My Nokia dans Paramètres. Pour en savoir plus, visitez "
+"le site www.nokia.com/mynokia"
+
+msgid "qtn_pa_confirmation_os1"
+msgstr "Vous vous êtes désabonné de My Nokia."
+
+msgid "refs_ia_text"
+msgstr ""
+"Restaurer les paramètres d'origine et redémarrer ?\n"
+"Toutes les fonctions seront désactivées temporairement (y compris les appels "
+"d'urgence). Le contenu créé par l'utilisateur ne sera pas affecté."
