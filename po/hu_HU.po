@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: hildon-control-panel 20090515151313\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.05.15 15:13+0300\n"
+"PO-Revision-Date: 2010-02-21 21:08+0100\n"
+"Last-Translator: attilaposa <laposa@pannongsm.hu>\n"
+"Language-Team: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "mynokia_ap_name"
+msgstr "My Nokia"
+
+msgid "mynokia_when_you"
+msgstr "Ha feliratkozol a My Nokia szolgáltatásra, akkor ingyenes tippeket és támogatást küldünk neked SMS-ben."
+
+msgid "cherry_bt_terms_conditions"
+msgstr "My Nokia használati feltételek"
+
+msgid "copa_ap_cp_name"
+msgstr "Beállítások"
+
+msgid "copa_ap_cp_name_short"
+msgstr "Beállítások"
+
+msgid "copa_ia_connectivity"
+msgstr "Csatlakozás"
+
+msgid "copa_ia_extras"
+msgstr "Extrák"
+
+msgid "copa_ia_general"
+msgstr "Általános"
+
+msgid "copa_ia_personalisation"
+msgstr "Testreszabás"
+
+msgid "copa_me_tools_cud"
+msgstr "Eszköz takarítása"
+
+msgid "copa_me_tools_rfs"
+msgstr ""
+"Gyári beállítások\n"
+"visszaállítása"
+
+msgid "ctrp_ti_screen_calibration"
+msgstr "Kijelző kalibrálás"
+
+msgid "cud_ia_text"
+msgstr ""
+"Törlöd az összes felhasználói adatot, kivéve a telepített alkalmazásokat?\n"
+"Az összes funkció ideiglenesen inaktiválásra kerül (beleértve a segélyhívást is) és az eszköz újraindul."
+
+msgid "refs_ia_text"
+msgstr ""
+"Gyári beállítások visszaállítása és újraindítás?\n"
+"Az összes funkció ideiglenesen inaktiválásra kerül (beleértve a segélyhívást is). A felhasználó által létrehozott dolgok érintetlenek maradnak."
+
+msgid "qtn_pa_confirmation_of1"
+msgstr ""
+"Kísérlet a leiratkozásról meghiúsult.\n"
+"Használd a 'My Nokia'-t a Beállításoknál és próbáld újra. További információért látogass el a "
+" www.nokia.com/mynokia weboldalra."
+
+msgid "qtn_pa_confirmation_os1"
+msgstr "Leiratkoztál a My Nokia szolgáltatásról."
+
