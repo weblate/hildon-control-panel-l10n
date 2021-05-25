@@ -1,0 +1,110 @@
+#
+# This file is part of hildon-control-panel-l10n-public
+#
+# Copyright (C) 2006-2007 Nokia Corporation. All rights reserved.
+#
+# Contact: Mohammed Hassan <mohammed.2.hassan@nokia.com>
+#
+# Redistribution and use in source and binary forms, with or without modification,
+# are permitted provided that the following conditions are met:
+#
+#     Redistributions of source code must retain the above copyright notice,
+#     this list of conditions and the following disclaimer.
+#     Redistributions in binary form must reproduce the above copyright notice,
+#     this list of conditions and the following disclaimer in the documentation and/or
+#     other materials provided with the distribution.
+#     Neither the name of Nokia Corporation nor the names of its contributors may be used
+#     to endorse or promote products derived from this software without specific prior written
+#     permission.
+#
+# THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR
+# IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY
+# AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER
+# OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
+# CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+# SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
+# THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR
+# OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
+# POSSIBILITY OF SUCH DAMAGE.
+#
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: hildon-control-panel 20090515151313\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.05.15 15:13+0300\n"
+"PO-Revision-Date: 2010-05-29 12:14+0200\n"
+"Last-Translator: Aranel Surion <aranel@aranelsurion.org>\n"
+"Language-Team: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+# Text in the Restore original settings –confirmation note.
+msgid "refs_ia_text"
+msgstr ""
+"Orijinal ayarlara geri dönülüp cihaz yeniden başlasın mı?\n"
+"Tüm fonksiyonlar geçici olarak kullanılamayacak (acil durum çağrıları dahil). Kullanıcı içerikleri bu işlemden etkilenmeyecektir."
+
+# Text in the Clear device –confirmation note.
+msgid "cud_ia_text"
+msgstr ""
+"Kurulu programlar hariç tüm kullanıcı verisi silinsin mi?\n"
+"Tüm fonksiyonlar (acil durum çağrıları dahil) geçici olarak kullanılamayacak ve cihaz yeniden başlayacaktır."
+
+# Application name of Control panel
+msgid "copa_ap_cp_name"
+msgstr "Ayarlar"
+
+# Name of the application shown in Application Menu.
+msgid "copa_ap_cp_name_short"
+msgstr "Ayarlar"
+
+# Title for the group separator: General
+msgid "copa_ia_general"
+msgstr "Genel"
+
+# Title for the group separator: Connectivity
+msgid "copa_ia_connectivity"
+msgstr "Bağlanabilirlik"
+
+# Title for the group separator: Personalisation
+msgid "copa_ia_personalisation"
+msgstr "Kişiselleştirme"
+
+# Title for the group separator: Extras
+msgid "copa_ia_extras"
+msgstr "Ekstralar"
+
+# Title of application menu item: Restore factory settings
+msgid "copa_me_tools_rfs"
+msgstr ""
+"Orijinal ayarlara\n"
+"dön"
+
+# Title of application menu item: Clear device. This function deletes all settings, accounts, contacts, messages, documents, photos, etc. However, the function will NOT affect user installed applications or content of removable memory card.
+msgid "copa_me_tools_cud"
+msgstr "Cihazı temizle"
+
+# Screen calibration
+msgid "ctrp_ti_screen_calibration"
+msgstr "Ekran kalibrasyonu"
+
+msgid "mynokia_ap_name"
+msgstr "My Nokia"
+
+msgid "mynokia_when_you"
+msgstr ""
+"My Nokia üyesi olduğunuzda ipucu ve destek bilgileri "
+"Nokia'nıza periyodik olarak SMS ile gönderilir. "
+
+msgid "qtn_pa_confirmation_of1"
+msgstr ""
+"Üyeliği iptal girişimi başarısız.\n"
+"Ayarlar'da 'My Nokia' seçin ve yeniden deneyin. Daha fazla bilgi için "
+"www.nokia.com/mynokia"
+
+msgid "qtn_pa_confirmation_os1"
+msgstr "My Nokia üyeliğinizden ayrıldınız."
+
