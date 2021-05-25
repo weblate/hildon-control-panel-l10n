@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: hildon-control-panel 20090515151313\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.02.15 14:13+0200\n"
+"PO-Revision-Date: 2010-03-27 22:09+0100\n"
+"Last-Translator: Roman Moravčík <roman.moravcik@gmail.com>\n"
+"Language-Team: Slovak <sk-i18n@lists.linux.sk>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2\n"
+
+msgid "copa_ap_cp_name"
+msgstr "Nastavenie"
+
+msgid "copa_ap_cp_name_short"
+msgstr "Nastavenie"
+
+msgid "copa_ia_connectivity"
+msgstr "Pripojenie"
+
+msgid "copa_ia_extras"
+msgstr "Doplnky"
+
+msgid "copa_ia_general"
+msgstr "Všeobecné"
+
+msgid "copa_ia_personalisation"
+msgstr "Personalizácia"
+
+msgid "copa_me_tools_cud"
+msgstr "Vymazať pamäť prístroja"
+
+msgid "copa_me_tools_rfs"
+msgstr ""
+"Obnoviť pôvodné\n"
+"nastavenia"
+
+msgid "ctrp_ti_screen_calibration"
+msgstr "Kalibrácia displeja"
+
+msgid "cud_ia_text"
+msgstr ""
+"Odstrániť všetky užívateľské dáta okrem nainštalovaných programov?\n"
+"Všetky funkcie budu dočasne vypnuté (vrátane tiesňových volaní) a prebehne "
+"reštart prístroja."
+
+msgid "mynokia_ap_name"
+msgstr "My Nokia"
+
+msgid "mynokia_when_you"
+msgstr ""
+"Po registrácií v službe My Nokia budú do vašeho telefónu Nokia pravidelne "
+"zasielané správy SMS s bezplatnými tipmi a podporou."
+
+msgid "qtn_pa_confirmation_of1"
+msgstr ""
+"Pokus o odhlásenie sa nepodaril.\n"
+"V ponuke Nastavenie prejdite do ponuky ‚My Nokia‘ a skúste to znova. Ďalšie "
+"informácie nájdete na stránkach www.nokia.com/mynokia"
+
+msgid "qtn_pa_confirmation_os1"
+msgstr "Odhlásili ste sa zo služby My Nokia."
+
+msgid "refs_ia_text"
+msgstr ""
+"Obnoviť pôvodné nastavenie a reštartovať?\n"
+"Všetky funkcie budú dočasne vypnuté (vrátane tiesňových volaní). Užívateľom "
+"vytvorený obsah nebude ovplyvnený."
