@@ -1,0 +1,60 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.05.15 15:13+0300\n"
+"PO-Revision-Date: 2012-05-30 14:34+0000\n"
+"Last-Translator: firstfan <firstfan@gmail.com>\n"
+"Language-Team: Khmer (http://www.transifex.net/projects/p/n900-extra-translations/language/km/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: km\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgid "copa_ap_cp_name"
+msgstr "ការរៀបចំ"
+
+msgid "copa_ap_cp_name_short"
+msgstr "ការរៀបចំ"
+
+msgid "copa_ia_connectivity"
+msgstr "ការតភ្ជាប់"
+
+msgid "copa_ia_extras"
+msgstr "បន្ថែមពិសេស"
+
+msgid "copa_ia_general"
+msgstr "ធម្មតា"
+
+msgid "copa_ia_personalisation"
+msgstr "បដិរូបកម្ម"
+
+msgid "copa_me_tools_cud"
+msgstr "លុបសំអាតឧបករណ៌"
+
+msgid "copa_me_tools_rfs"
+msgstr "ធ្វើអោយការរៀបចំ\nដូចទំរង់ដើម"
+
+msgid "ctrp_ti_screen_calibration"
+msgstr "ក្រិតរង្វាស់ខ្នាតអេក្រង់"
+
+msgid "cud_ia_text"
+msgstr "សំអាតចេញរាល់ឯកសារអ្នកប្រើប្រាស់ទាំងអស់ លើកលែងតែកម្មវិធីដែលបានបញ្ចូល?\nរាល់មុខងារទាំងអស់នឹងត្រូវផ្អាកដំណើរការបណ្តោះអាសន្ន (រួមបញ្ចូលទាំងការហៅករណីមានអាសន្ន) ឧបករណ៍នេះនឹងបិទរួចបើកឡើងវិញ។"
+
+msgid "mynokia_ap_name"
+msgstr "My Nokia"
+
+msgid "mynokia_when_you"
+msgstr "ពេលអ្នកបានចុះឈ្មោះជាមួយ My Nokia សេចក្តីណែនាំនឹងផ្ញើតាមរយៈសារខ្លី (SMS) ទៅកាន់ទូរស័ព្ទ Nokia របស់អ្នក។"
+
+msgid "qtn_pa_confirmation_of1"
+msgstr "បញ្ឈប់ការយល់ព្រមទទួលព័ត៌មានបានបរាជ័យ។\nចូលទៅកាន់ 'My Nokia' នៅក្នុង ការរៀបចំ ដើម្បីសាកល្បងម្តងទៀត។ មកកាន់ www.nokia.com/mynokia សំរាប់ព័ត៌មានបន្ថែម។"
+
+msgid "qtn_pa_confirmation_os1"
+msgstr "អ្នកបានយល់ព្រមទទួលព័ត៌មានពី My Nokia"
+
+msgid "refs_ia_text"
+msgstr "ធ្វើអោយការរៀបចំដូចទំរង់ដើម ហើយឧបករណ៍នេះនឹងបិទរួចបើកឡើងវិញ?\nរាល់មុខងារទាំងអស់នឹងត្រូវផ្អាកដំណើរការបណ្តោះអាសន្ន (រួមបញ្ចូលទាំងការហៅករណីមានអាសន្ន)។ ឯកសារអ្នកប្រើប្រាស់ដែលបានបង្កើត មិនប៉ះពាល់លក្ខណៈដើម។"
