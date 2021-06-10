@@ -1,0 +1,60 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.05.15 15:13+0300\n"
+"PO-Revision-Date: 2010-11-30 11:30+0000\n"
+"Last-Translator: \n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgid "copa_ap_cp_name"
+msgstr "控制面板"
+
+msgid "copa_ap_cp_name_short"
+msgstr "控制面板"
+
+msgid "copa_ia_connectivity"
+msgstr "连接设置"
+
+msgid "copa_ia_extras"
+msgstr "附加功能"
+
+msgid "copa_ia_general"
+msgstr "常规设置"
+
+msgid "copa_ia_personalisation"
+msgstr "个性化设置"
+
+msgid "copa_me_tools_cud"
+msgstr "清空设备"
+
+msgid "copa_me_tools_rfs"
+msgstr "恢复出厂设置"
+
+msgid "ctrp_ti_screen_calibration"
+msgstr "触摸屏校准"
+
+msgid "cud_ia_text"
+msgstr "清除已安装程式以外的所有使用者资料?\n所有的功能将暂时无法使用(包含紧急电话), 装置将重新启动"
+
+msgid "mynokia_ap_name"
+msgstr "My Nokia"
+
+msgid "mynokia_when_you"
+msgstr "当你注册成为My Nokia 会员后, Nokia 会使用短讯定期传送手机使用小贴示和技术支援讯息给你"
+
+msgid "qtn_pa_confirmation_of1"
+msgstr "无法取消订阅\n请于设定中的My Nokia再次尝试, 详情请参阅www.nokia.com/mynokia"
+
+msgid "qtn_pa_confirmation_os1"
+msgstr "你已取消订阅 My Nokia"
+
+msgid "refs_ia_text"
+msgstr "恢复原厂设定及重新启动?\n所有的功能将暂时无法使用(包括紧急电话). 使用者建立的内容将不会受影响."
