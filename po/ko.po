@@ -1,0 +1,60 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.05.15 15:13+0300\n"
+"PO-Revision-Date: 2010-11-30 11:30+0000\n"
+"Last-Translator: \n"
+"Language-Team: Korean (http://www.transifex.net/projects/p/n900-extra-translations/language/ko/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgid "copa_ap_cp_name"
+msgstr "설정"
+
+msgid "copa_ap_cp_name_short"
+msgstr "설정"
+
+msgid "copa_ia_connectivity"
+msgstr "연결"
+
+msgid "copa_ia_extras"
+msgstr "기타"
+
+msgid "copa_ia_general"
+msgstr "일반"
+
+msgid "copa_ia_personalisation"
+msgstr "사용자 기능"
+
+msgid "copa_me_tools_cud"
+msgstr "장치 초기화"
+
+msgid "copa_me_tools_rfs"
+msgstr "설정 초기화"
+
+msgid "ctrp_ti_screen_calibration"
+msgstr "화면 보정"
+
+msgid "cud_ia_text"
+msgstr "설치 된 프로그램을 제외한 모든 사용자 정보를 초기화 하시겠습니까?\n모든 기능이 임시로 비활성화되고(긴급 통화도 포함됩니다) 장치가 재시작될 것입니다."
+
+msgid "mynokia_ap_name"
+msgstr "My Nokia"
+
+msgid "mynokia_when_you"
+msgstr "When you have registered to My Nokia, tips and support will be sent regularly via SMS to your Nokia."
+
+msgid "qtn_pa_confirmation_of1"
+msgstr "Attempt to unsubscribe has failed.\nGo to 'My Nokia' in Settings to try again. Visit www.nokia.com/mynokia for more information."
+
+msgid "qtn_pa_confirmation_os1"
+msgstr "You have unsubscribed from My Nokia."
+
+msgid "refs_ia_text"
+msgstr "설정을 초기화 하고 장치를 재시작 하시겠습니까?\n모든 기능이 임시로 비활성화됩니다(긴급 통화도 포함됩니다).사용자의 데이터는 영향 받지 않습니다."
