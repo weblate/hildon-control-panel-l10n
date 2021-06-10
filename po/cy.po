@@ -1,0 +1,61 @@
+# 
+# Translators:
+# Geraint Rowlands <ansbaradigeidfran@gmail.com>, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.05.15 15:13+0300\n"
+"PO-Revision-Date: 2012-02-07 10:08+0000\n"
+"Last-Translator: Geraint Rowlands <ansbaradigeidfran@gmail.com>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: cy\n"
+"Plural-Forms: nplurals=4; plural=(n==1) ? 0 : (n==2) ? 1 : (n != 8 && n != 11) ? 2 : 3\n"
+
+msgid "copa_ap_cp_name"
+msgstr "Gosodiadau"
+
+msgid "copa_ap_cp_name_short"
+msgstr "Gosodiadau"
+
+msgid "copa_ia_connectivity"
+msgstr "Cysylltedd"
+
+msgid "copa_ia_extras"
+msgstr "Arall"
+
+msgid "copa_ia_general"
+msgstr "Cyffredinol"
+
+msgid "copa_ia_personalisation"
+msgstr "Personoli"
+
+msgid "copa_me_tools_cud"
+msgstr "Clirio'r dyfais"
+
+msgid "copa_me_tools_rfs"
+msgstr "Adfer gosodiadau gwreiddiol"
+
+msgid "ctrp_ti_screen_calibration"
+msgstr "Graddnodi'r sgrin"
+
+msgid "cud_ia_text"
+msgstr "Clirio'r holl ddata defnyddiwr ac eithrio'r rhaglenni sydd wedi eu gosod? Caiff pob gweithred ei analluogi dros dro (gan gynnwys galwadau argyfwng) ac fe ailgychwynnir y dyfais."
+
+msgid "mynokia_ap_name"
+msgstr "Fy Nokia"
+
+msgid "mynokia_when_you"
+msgstr "Pan rydych wedi tanysgrifio at Fy Nokia, fe yrrir cymorth ac awgrymiadau yn aml i'ch ffôn drwy negeseuon testun."
+
+msgid "qtn_pa_confirmation_of1"
+msgstr "Methodd yr ymgais i ddadysgrifo. Ewch i 'Fy Nokia' o dan Gosodiadau i geisio eto. Ewch i www.nokia.com/mynokia am fwy o wybodaeth."
+
+msgid "qtn_pa_confirmation_os1"
+msgstr "Rydych wedi dadysgrifio o Fy Nokia"
+
+msgid "refs_ia_text"
+msgstr "Adfer gosodiadau gwreiddiol ac ailgychwyn? Caiff pob gweithred ei analluogi dros dro (gan gynnwys galwadau argyfwng). Ni effeithir ar gynnwys a grëwyd gan y defnyddiwr."
