@@ -33,8 +33,8 @@ msgstr ""
 "Project-Id-Version: hildon-control-panel 20090515151313\n"
 "Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
 "POT-Creation-Date: 2009.05.15 15:13+0300\n"
-"PO-Revision-Date: 2021-05-26 12:32+0000\n"
-"Last-Translator: Oğuz Ersen <oguzersen@protonmail.com>\n"
+"PO-Revision-Date: 2024-08-12 11:09+0000\n"
+"Last-Translator: Oğuz Ersen <oguz@ersen.moe>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/maemo-leste/"
 "hildon-control-panel-l10n/tr/>\n"
 "Language: tr_TR\n"
@@ -42,19 +42,21 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.7-dev\n"
+"X-Generator: Weblate 5.7-dev\n"
 
 # Text in the Restore original settings –confirmation note.
 msgid "refs_ia_text"
 msgstr ""
-"Orijinal ayarlara geri dönülüp cihaz yeniden başlasın mı?\n"
-"Tüm fonksiyonlar geçici olarak kullanılamayacak (acil durum çağrıları dahil). Kullanıcı içerikleri bu işlemden etkilenmeyecektir."
+"Orijinal ayarlara geri dönülüp aygıt yeniden başlasın mı?\n"
+"Tüm fonksiyonlar geçici olarak kullanılamayacak (acil durum çağrıları dahil)"
+". Kullanıcı içerikleri bu işlemden etkilenmeyecektir."
 
 # Text in the Clear device –confirmation note.
 msgid "cud_ia_text"
 msgstr ""
 "Kurulu programlar hariç tüm kullanıcı verisi silinsin mi?\n"
-"Tüm fonksiyonlar (acil durum çağrıları dahil) geçici olarak kullanılamayacak ve cihaz yeniden başlayacaktır."
+"Tüm fonksiyonlar (acil durum çağrıları dahil) geçici olarak kullanılamayacak "
+"ve aygıt yeniden başlayacaktır."
 
 # Application name of Control panel
 msgid "copa_ap_cp_name"
@@ -88,7 +90,7 @@ msgstr ""
 
 # Title of application menu item: Clear device. This function deletes all settings, accounts, contacts, messages, documents, photos, etc. However, the function will NOT affect user installed applications or content of removable memory card.
 msgid "copa_me_tools_cud"
-msgstr "Cihazı temizle"
+msgstr "Aygıtı temizle"
 
 # Screen calibration
 msgid "ctrp_ti_screen_calibration"
